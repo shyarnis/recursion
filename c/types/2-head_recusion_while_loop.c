@@ -1,8 +1,8 @@
 /*
 Head Recursion is conveted into while loop
 - This is more efficient than head recursion
-Space Complexity: O(n)
-Time Complexity : O(1)
+Time Complexity: O(n)
+Space Complexity : O(1)
 */
 
 #include<stdio.h>
